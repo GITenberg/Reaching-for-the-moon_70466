@@ -1,0 +1,36 @@
+_repo: Reaching-for-the-moon_70466
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hunter, Evan
+    aliases:
+    - Lombino, S. A.
+    - Lombino, Salvatore Albert
+    - Lombino, S.A.
+    birthdate: 1926
+    deathdate: 2005
+    gutenberg_agent_id: '50069'
+    url: http://www.gutenberg.org/2009/agents/50069
+    wikipedia: https://en.wikipedia.org/wiki/Evan_Hunter
+description: ''
+gutenberg_issued: '2023-04-05'
+identifiers:
+  gutenberg: '70466'
+language: en
+pgterms:marc905: 20220528063332lombino
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Reaching for the moon
+url: http://www.gutenberg.org/ebooks/70466
